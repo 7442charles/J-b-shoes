@@ -1,0 +1,5 @@
+email = jbshoes@the-fulcrum-391810.iam.gserviceaccount.com
+
+https://sheets.googleapis.com/v4/spreadsheets/13wXznYj4506FPS-orOngRkXfzgBGGCzMj97j2rVjmro/values/jbshoes?majorDimension=COLUMNS
+
+API KEY = AIzaSyAyQheAF7Tr0RcGHTG2Xmaioa9qvu3qBiM

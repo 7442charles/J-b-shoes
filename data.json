@@ -1,0 +1,45 @@
+{
+    "shoes": {
+      "shoe1": {
+        "name": "Addidas New Hammer Sole",
+        "currentPrice": 800.00,
+        "pastPrice": 1200.00
+      },
+      "shoe2": {
+        "name": "Nike Air Zoom Pegasus",
+        "currentPrice": 1200.00,
+        "pastPrice": 1500.00
+      },
+      "shoe3": {
+        "name": "Reebok Classic Leather",
+        "currentPrice": 850.00,
+        "pastPrice": 1000.00
+      },
+      "shoe4": {
+        "name": "Puma Ignite XT",
+        "currentPrice": 700.00,
+        "pastPrice": 900.00
+      },
+      "shoe5": {
+        "name": "Under Armour HOVR Phantom",
+        "currentPrice": 950.00,
+        "pastPrice": 1100.00
+      },
+      "shoe6": {
+        "name": "Your Shoe Name",
+        "currentPrice": 800.00,
+        "pastPrice": 1200.00
+      },
+      "shoe7": {
+        "name": "Your Shoe Name",
+        "currentPrice": 800.00,
+        "pastPrice": 1200.00
+      },
+      "shoe8": {
+        "name": "Your Shoe Name",
+        "currentPrice": 800.00,
+        "pastPrice": 1200.00
+      }
+    }
+  }
+  
