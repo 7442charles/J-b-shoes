@@ -69,7 +69,7 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 24px;
-    color: #007bff; /* Bootstrap's primary color */
+    color: #007bff; 
     cursor: pointer;
 }
 
@@ -79,8 +79,16 @@ h1 {
 .card {
     background-color: #424242;
     color: #fff;
+    margin-bottom: 15px;
+    max-width: 350px; /* Set the maximum width as needed */
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.card-body {
+    max-height: 200px; /* Adjust the max-height as needed */
+    overflow-y: auto; /* Add scroll if content exceeds max-height */
+}
 .card-header {
     background-color: #28a745;
     color: #fff;

@@ -1,0 +1,71 @@
+{
+  "orderdetails": {
+    "-NjgqAhEhua6XLlA6JIs": {
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_eight.jpg?alt=media&token=b8c761c6-5fee-4bc2-a6a6-d68ca90533f8",
+      "itemName": "shoe 8",
+      "itemPrice": "4500",
+      "name": "chao",
+      "orderDate": "2023-11-20T13:08:28.731Z",
+      "orderStatus": "open",
+      "phoneNumber": "1234"
+    },
+    "-NjgqYPwRSZyOLvRQLpl": {
+      "itemName": "shoe seven",
+      "itemPrice": "1200",
+      "name": "mike",
+      "orderDate": "2023-11-20T13:10:05.911Z",
+      "orderStatus": "open",
+      "phoneNumber": "456"
+    }
+  },
+  "shoes": {
+    "-Njgc7dNvxNOzRln_KDI": {
+      "currentPrice": "1500",
+      "image": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_nine.jpg?alt=media&token=9896bfe3-0cd9-45fc-b17f-48fc60a668ee",
+      "name": "shoe nine",
+      "pastPrice": "1700"
+    },
+    "-NjgcDze_iauv6rzRLCL": {
+      "currentPrice": "4500",
+      "image": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_eight.jpg?alt=media&token=b8c761c6-5fee-4bc2-a6a6-d68ca90533f8",
+      "name": "shoe 8",
+      "pastPrice": "4700"
+    },
+    "-NjgcJjR50qq8DmeDLNK": {
+      "currentPrice": "1200",
+      "image": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_seven.jpg?alt=media&token=8544b4c7-df26-4832-86a2-ea0880a75cd8",
+      "name": "shoe seven",
+      "pastPrice": "1500"
+    },
+    "-Njgca9zC7GJ_Ajhqfhq": {
+      "currentPrice": "1350",
+      "image": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_five.jpg?alt=media&token=fcd6a210-270b-402e-ba54-ec4f54c1ffb7",
+      "name": "shoe five",
+      "pastPrice": "1500"
+    },
+    "-Njgcfyj5pGw9BTNiY2i": {
+      "currentPrice": "1400",
+      "image": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_four.jpg?alt=media&token=73378b50-e07b-4f33-883c-38fbb3a084e7",
+      "name": "shoe four",
+      "pastPrice": "1500"
+    },
+    "-Njgcl0TeloZ-12hs-_D": {
+      "currentPrice": "1700",
+      "image": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_three.jpg?alt=media&token=75b547c7-f451-4e54-9a03-ba4382825ab1",
+      "name": "shoe three",
+      "pastPrice": "2000"
+    },
+    "-Njgcs5WY7LH-rH3TNb_": {
+      "currentPrice": "1800",
+      "image": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_two.jpg?alt=media&token=c4a86338-5ee7-40b4-aa5a-0336f870ca71",
+      "name": "shoe four",
+      "pastPrice": "2000"
+    },
+    "-Njgcz5gduiJDcn7Salg": {
+      "currentPrice": "1250",
+      "image": "https://firebasestorage.googleapis.com/v0/b/webapptestapi.appspot.com/o/images%2Fshoe_one.jpg?alt=media&token=2520c6e9-5044-4bc1-a0b0-11784d3e21a1",
+      "name": "shoe one",
+      "pastPrice": "1400"
+    }
+  }
+}
